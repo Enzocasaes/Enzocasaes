@@ -18,5 +18,23 @@
   <a href="https://www.instagram.com/enzo_figueiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "enzocasais0802@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enzo-casaes-77a469301/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+##
+
+Sou estudante de Engenharia de Software, atualmente no 4º período, com interesse em desenvolvimento web, análise de sistemas e soluções digitais inovadoras. Tenho experiência em projetos acadêmicos envolvendo diversas linguagens de programação, aplicando conceitos de modelagem de dados, MVC e boas práticas de programação.
+
+Meu foco é unir teoria e prática para criar sistemas eficientes, escaláveis e intuitivos. Estou em busca de oportunidades de estágio para aplicar meus conhecimentos, contribuir com equipes de alto desempenho e continuar evoluindo como desenvolvedor.
+
+💡 Principais pontos fortes
+
+Desenvolvimento web front-end e back-end
+
+Modelagem e integração de bancos de dados relacionais
+
+Experiência com projetos acadêmicos de gestão (estacionamentos, hotel de pets, sistemas agropecuários)
+
+Dedicação, aprendizado rápido e trabalho colaborativo
+
+🚀 Objetivo
+Atuar como estagiário em desenvolvimento de software, contribuindo para projetos reais e aprimorando minhas habilidades técnicas e profissionais.
