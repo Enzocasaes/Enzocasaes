@@ -1,4 +1,28 @@
+<div>
+<img align="center" alt="Header" src="https://github.com/Enzocasaes/Enzocasaes/blob/main/Imgs/header.png"/>
+</div>
+
 ## Olá!! Eu sou o Enzo Casaes
+
+
+Sou estudante de Engenharia de Software, atualmente no 4º período, com interesse em desenvolvimento web, análise de sistemas e soluções digitais inovadoras. Tenho experiência em projetos acadêmicos envolvendo diversas linguagens de programação, aplicando conceitos de modelagem de dados, MVC e boas práticas de programação.
+
+Meu foco é unir teoria e prática para criar sistemas eficientes, escaláveis e intuitivos. Estou em busca de oportunidades de estágio para aplicar meus conhecimentos, contribuir com equipes de alto desempenho e continuar evoluindo como desenvolvedor.
+
+💡 Principais pontos fortes
+
+Desenvolvimento web front-end e back-end
+
+Modelagem e integração de bancos de dados relacionais
+
+Experiência com projetos acadêmicos de gestão (estacionamentos, hotel de pets, sistemas agropecuários)
+
+Dedicação, aprendizado rápido e trabalho colaborativo
+
+🚀 Objetivo
+Atuar como estagiário em desenvolvimento de software, contribuindo para projetos reais e aprimorando minhas habilidades técnicas e profissionais.
+
+##
 
 - Linguagens
 <div style="display: inline_block"><br>
@@ -36,21 +60,29 @@
   <a href="https://www.linkedin.com/in/enzo-casaes-77a469301/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
 ##
 
-Sou estudante de Engenharia de Software, atualmente no 4º período, com interesse em desenvolvimento web, análise de sistemas e soluções digitais inovadoras. Tenho experiência em projetos acadêmicos envolvendo diversas linguagens de programação, aplicando conceitos de modelagem de dados, MVC e boas práticas de programação.
-
-Meu foco é unir teoria e prática para criar sistemas eficientes, escaláveis e intuitivos. Estou em busca de oportunidades de estágio para aplicar meus conhecimentos, contribuir com equipes de alto desempenho e continuar evoluindo como desenvolvedor.
-
-💡 Principais pontos fortes
-
-Desenvolvimento web front-end e back-end
-
-Modelagem e integração de bancos de dados relacionais
-
-Experiência com projetos acadêmicos de gestão (estacionamentos, hotel de pets, sistemas agropecuários)
-
-Dedicação, aprendizado rápido e trabalho colaborativo
-
-🚀 Objetivo
-Atuar como estagiário em desenvolvimento de software, contribuindo para projetos reais e aprimorando minhas habilidades técnicas e profissionais.
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Enzocasaes&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzocasaes&theme=dark&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzocasaes&layout=pie&theme=dark&locale=pt-br"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+<table>
+</table>
+  <div>
