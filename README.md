@@ -13,9 +13,9 @@ Meu foco é unir teoria e prática para criar sistemas eficientes, escaláveis e
 
 Desenvolvimento web front-end e back-end
 
-Modelagem e integração de bancos de dados relacionais
+Modelagem e integração de bancos de dados
 
-Experiência com projetos acadêmicos de gestão (estacionamentos, hotel de pets, sistemas agropecuários)
+Experiência com projetos acadêmicos de gestão
 
 Dedicação, aprendizado rápido e trabalho colaborativo
 
